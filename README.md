@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **triyatna/triyatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Python • Javascript
 - ⚡ Shell • Express JS
 
-## Other [Github](https://github.com/triyatnaa29) 
+### Other [Github](https://github.com/triyatnaa29) 
 
 
 
