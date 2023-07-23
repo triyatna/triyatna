@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+there+👋🏼,+i'm+Tri+Yatna;i'am+a+web+developer">
+  </a>
+</h1>
+
+## Hello, Im [Tri Yatna](https://triyatna.com) 
+
+:page_with_curl: I'm currently learning:
+- ⚡ PHP • Laravel • Codeigniter
+- ⚡ Nodejs
+- ⚡ Python • Javascript
+- ⚡ Shell • Express JS
+
+## Other [Github](https://github.com/triyatnaa29) 
+
+
+
