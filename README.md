@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+there+👋🏼,+i'm+Tri+Yatna;i'am+a+web+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+there+👋🏼,+i'm+Tri+Yatna;i'am+a+web+developer" alt="Tri Yatna">
   </a>
 </h1>
 
@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - ⚡ PHP • Laravel • Codeigniter
 - ⚡ Nodejs
 - ⚡ Python • Javascript
-- ⚡ Shell • Express JS
+- ⚡ Shell • Git • Express JS
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=triyatna&show_icons=true&locale=en&layout=compact" alt="Tri Yatna">
 
 ### Other [Github](https://github.com/triyatnaa29) 
 
