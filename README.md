@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 </div>
 -->
 
-
-
 <h1 align="center">Hi 👋, I'm Tri Yatna</h1>
 <h3 align="center">A Web Developer who is lazy to code from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triyatna&label=Profile%20views&color=0e75b6&style=flat" alt="triyatna" /> </p>
