@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Golang, NextJS**
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=triyatna" alt="triyatna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=triyatna" alt="triyatna" /></a> </p>
 
 
 ## 🌐 Socials:
